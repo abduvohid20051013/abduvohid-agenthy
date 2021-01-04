@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 55" width="55" height="55">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-979 -4404L941 -4404L941 864L-979 864Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1b498a } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="uixzone" clip-path="url(#cp1)">
+		<g id="Testimonial">
+			<g id="Group 78">
+				<g id="pagination">
+					<g id="Right">
+						<g id="Group 19">
+							<path id="Ellipse 3" class="shp0" d="M27.5 55C12.29 55 0 42.71 0 27.5C0 12.29 12.29 0 27.5 0C42.71 0 55 12.29 55 27.5C55 42.71 42.71 55 27.5 55Z" />
+							<path id="Ellipse 4" class="shp1" d="M27.5 52C13.95 52 3 41.05 3 27.5C3 13.95 13.95 3 27.5 3C41.05 3 52 13.95 52 27.5C52 41.05 41.05 52 27.5 52Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

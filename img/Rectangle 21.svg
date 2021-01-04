@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 37" width="215" height="37">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-384 -4614L1536 -4614L1536 654L-384 654Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M6 2L221 2L221 39L6 39L6 2Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="uixzone" clip-path="url(#cp1)">
+		<g id="Company">
+			<g id="Group 35">
+				<g id="Group 34" clip-path="url(#cp2)">
+					<path id="Rectangle 21" d="M0 0L215 0L215 37L0 37L0 0Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

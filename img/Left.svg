@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 55" width="55" height="55">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-894 -4404L1026 -4404L1026 864L-894 864Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M30.32 22.28L30.73 22.7C31.09 23.07 31.09 23.67 30.73 24.04L27.7 27.16C27.52 27.34 27.43 27.59 27.43 27.83C27.43 28.07 27.52 28.32 27.7 28.5L30.73 31.62C31.09 31.99 31.09 32.6 30.73 32.97L30.32 33.39C29.96 33.76 29.37 33.76 29.01 33.39L24.27 28.51C24.09 28.32 24 28.08 24 27.83C24 27.59 24.09 27.35 24.27 27.16L29.01 22.28C29.37 21.91 29.96 21.91 30.32 22.28Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M31 34.42L24 34.42L24 21.42L31 21.42L31 34.42Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1b498a } 
+		.shp1 { fill: #ffffff } 
+		.shp2 { fill: #ff9c00 } 
+	</style>
+	<g id="uixzone" clip-path="url(#cp1)">
+		<g id="Testimonial">
+			<g id="Group 78">
+				<g id="pagination">
+					<g id="Left">
+						<g id="Group 19">
+							<path id="Ellipse 3" class="shp0" d="M27.5 55C12.29 55 0 42.71 0 27.5C0 12.29 12.29 0 27.5 0C42.71 0 55 12.29 55 27.5C55 42.71 42.71 55 27.5 55Z" />
+							<path id="Ellipse 4" class="shp1" d="M27.5 52C13.95 52 3 41.05 3 27.5C3 13.95 13.95 3 27.5 3C41.05 3 52 13.95 52 27.5C52 41.05 41.05 52 27.5 52Z" />
+						</g>
+						<g id="Group 18">
+							<g id="Group 20">
+								<g id="Group 13" clip-path="url(#cp2)">
+									<g id="Group 12" clip-path="url(#cp3)">
+										<path id="Path 14" class="shp2" d="M19 38.67L36 38.67L36 17L19 17L19 38.67Z" />
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

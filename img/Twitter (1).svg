@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38" width="38" height="38">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-941 -5200L979 -5200L979 68L-941 68Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M26 14.33C25.52 14.56 25.01 14.71 24.47 14.78C25.02 14.43 25.44 13.87 25.64 13.21C25.12 13.53 24.55 13.77 23.95 13.9C23.46 13.35 22.77 13 22 13C20.53 13 19.33 14.27 19.33 15.84C19.33 16.07 19.36 16.28 19.4 16.49C17.18 16.37 15.22 15.24 13.9 13.52C13.68 13.94 13.54 14.43 13.54 14.95C13.54 15.94 14.01 16.81 14.73 17.32C14.29 17.3 13.88 17.18 13.52 16.96L13.52 17C13.52 18.38 14.44 19.53 15.66 19.79C15.44 19.85 15.2 19.89 14.96 19.89C14.79 19.89 14.62 19.87 14.46 19.84C14.8 20.97 15.78 21.79 16.95 21.81C16.03 22.57 14.89 23.03 13.64 23.03C13.42 23.03 13.21 23.02 13 22.99C14.18 23.8 15.58 24.27 17.09 24.27C21.99 24.27 24.68 19.93 24.68 16.17C24.68 16.05 24.67 15.93 24.67 15.81C25.19 15.4 25.64 14.9 26 14.33Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M-1296 347L624 347L624 -6926L-1296 -6926L-1296 347Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1da0f1 } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="uixzone" clip-path="url(#cp1)">
+		<g id="Footer">
+			<g id="Group 77">
+				<g id="Twitter">
+					<path id="Ellipse 17" class="shp0" d="M19 38C8.49 38 0 29.51 0 19C0 8.49 8.49 0 19 0C29.51 0 38 8.49 38 19C38 29.51 29.51 38 19 38Z" />
+					<g id="Group 70" clip-path="url(#cp2)">
+						<g id="Group 69" clip-path="url(#cp3)">
+							<path id="Path 32" class="shp1" d="M8 8L31 8L31 29.27L8 29.27L8 8Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

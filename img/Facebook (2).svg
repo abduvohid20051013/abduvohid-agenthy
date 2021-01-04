@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38" width="38" height="38">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-883 -5200L1037 -5200L1037 68L-883 68Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M22 16.44L19.95 16.44L19.95 15.02C19.95 14.48 20.29 14.36 20.52 14.36L21.96 14.36L21.96 12.01L19.98 12C17.78 12 17.27 13.75 17.27 14.87L17.27 16.44L16 16.44L16 18.86L17.27 18.86L17.27 25.71L19.96 25.71L19.96 18.86L21.77 18.86L22 16.44Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M-1297 390L623 390L623 -6883L-1297 -6883L-1297 390Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #3a5897 } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="uixzone" clip-path="url(#cp1)">
+		<g id="Footer">
+			<g id="Group 77">
+				<g id="Facebook">
+					<path id="Ellipse 16" class="shp0" d="M19 38C8.49 38 0 29.51 0 19C0 8.49 8.49 0 19 0C29.51 0 38 8.49 38 19C38 29.51 29.51 38 19 38Z" />
+					<g id="Group 64" clip-path="url(#cp2)">
+						<g id="Group 63" clip-path="url(#cp3)">
+							<path id="Path 25" class="shp1" d="M11 7L27 7L27 30.71L11 30.71L11 7Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
